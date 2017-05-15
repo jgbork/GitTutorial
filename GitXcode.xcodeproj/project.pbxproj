@@ -14,6 +14,7 @@
 		291B21691ECA104A0049CBAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 291B21671ECA104A0049CBAC /* LaunchScreen.storyboard */; };
 		291B21741ECA104A0049CBAC /* GitXcodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 291B21731ECA104A0049CBAC /* GitXcodeTests.swift */; };
 		291B217F1ECA104A0049CBAC /* GitXcodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 291B217E1ECA104A0049CBAC /* GitXcodeUITests.swift */; };
+		291B218D1ECA1C530049CBAC /* MapTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 291B218C1ECA1C530049CBAC /* MapTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		291B217A1ECA104A0049CBAC /* GitXcodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitXcodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		291B217E1ECA104A0049CBAC /* GitXcodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitXcodeUITests.swift; sourceTree = "<group>"; };
 		291B21801ECA104A0049CBAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		291B218C1ECA1C530049CBAC /* MapTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				291B215E1ECA104A0049CBAC /* AppDelegate.swift */,
 				291B21601ECA104A0049CBAC /* ViewController.swift */,
+				291B218C1ECA1C530049CBAC /* MapTableViewController.swift */,
 				291B21621ECA104A0049CBAC /* Main.storyboard */,
 				291B21651ECA104A0049CBAC /* Assets.xcassets */,
 				291B21671ECA104A0049CBAC /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 			files = (
 				291B21611ECA104A0049CBAC /* ViewController.swift in Sources */,
 				291B215F1ECA104A0049CBAC /* AppDelegate.swift in Sources */,
+				291B218D1ECA1C530049CBAC /* MapTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

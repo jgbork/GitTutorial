@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Hello world")
+        let mapViewController = ViewController()
+        print(mapViewController)
         // Do any additional setup after loading the view, typically from a nib.
     }
 
